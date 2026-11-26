@@ -3,6 +3,7 @@
 An end-to-end SQL project: loading a raw 19M-row listening log into a normalized MySQL schema, and analyzing it with window functions, CTEs and sessionization.
 
 **Stack:** MySQL 8, MySQL Workbench
+
 **Data:** [Last.fm Dataset – 1K users](http://ocelma.net/MusicRecommendationDataset/lastfm-1K.html) (Celma, 2010). Listening events of 992 users, 2005–2009. Licensed for non-commercial use, so the raw data is not included in this repository.
 
 ## Schema
